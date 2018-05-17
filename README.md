@@ -8,3 +8,5 @@ my project portfolio
 Project Descrpition 
 
 i call my project " el dorado road work " my project that because the simple fact is it is showing how el dorado is building a road to the high school for easier traffic. i hope you see the same as you view tay & i eastprogram project 
+
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/lissiah/allissia-tay-eastproject'></script>
